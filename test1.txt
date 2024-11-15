@@ -1,0 +1,15 @@
+git clone https
+change directory ---cd githubdeep
+git status
+git add test1.text
+git status
+git commit -m "test1.txt file added"
+git push origin main
+
+
+
+how to add to the chrome git {
+    * git add deepi.txt
+    * git commit -m "deepi.txt file added"
+    * git push origin main
+}
